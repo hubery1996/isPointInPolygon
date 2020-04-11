@@ -1,0 +1,7 @@
+<map id="map" longitude="{{longitude}}" latitude="{{latitude}}" scale="13" controls="{{controls}}" bindcontroltap="controltap" bindtap="bindtapMap" markers="{{markers}}" polyline="{{polyline}}" bindmarkertap="removeMarker" bindlabeltap="removeMarker"
+  polygons="{{polygons.length >0 ? polygons :''}}" bindregionchange="regionchange" show-location style="width: 100%; height: 80vh;">
+</map>
+<button type="primary" bindtap="tapHandle">是否在围栏内</button>
+{{polygons[0].length}}
+<button type="primary" bindtap="creatPolygons">生成围栏</button>
+<button type="primary" bindtap="removePolygons">删除围栏</button>
