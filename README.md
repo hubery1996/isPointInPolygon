@@ -6,12 +6,11 @@
 
 #### 图示：
 
-![微信截图_20200411145127](./images/微信截图_20200411145127.png)
+[图一：视图展示到模拟定位点](https://github.com/hubery1996/images/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200411145127.png)
 
+[图二：生成标记点](https://github.com/hubery1996/images/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200411145203.png)
 
+[图三：生成多边形区域](https://github.com/hubery1996/images/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200411145217.png)
 
-![微信截图_20200411145203](./images/微信截图_20200411145203.png)
+[图四：删除多边形区域](https://github.com/hubery1996/images/blob/master/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200411145252.png)
 
-![微信截图_20200411145217](./images/微信截图_20200411145217.png)
-
-![微信截图_20200411145252](./images/微信截图_20200411145252.png)
